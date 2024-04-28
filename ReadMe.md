@@ -14,5 +14,4 @@ Olá, me chamo Jonathan e sou estudante de Engenharia de Software.<br><br>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=js3Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/js3Silva/js3Silva/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
