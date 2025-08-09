@@ -1,41 +1,66 @@
-<h1 align="center">👋 Olá, eu sou Jonathan Silva</h1>
-<h3 align="center">💻 Estudante de Engenharia de Software | PUC Minas</h3>
+<h1 align="center">🚀 Bem-vindo(a) ao meu universo dev!</h1>
+<h3 align="center">💻 Jonathan Silva | Estudante de Engenharia de Software (PUC Minas)</h3>
 
-###
-<h3 align="left">📈 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Js3Silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Js3Silva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
-
-###
-
-<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
+<p align="center">
+  Apaixonado por tecnologia, inovação e pelo impacto que o código pode gerar no mundo real.  
+  Busco criar soluções que conectam pessoas, otimizam processos e transformam ideias em realidade.
 </p>
 
-###
+---
 
-<h3 align="left">🌐 Conecte-se Comigo</h3>
-<div align="left">
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Js3Silva&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Js3Silva&layout=compact&langs_count=8&theme=radical" height="165" />
+</div>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</p>
+
+---
+
+## 📌 Sobre Mim
+- 🎯 Focado em **desenvolvimento back-end** com Java + Spring Boot e APIs REST.
+- 🌱 Explorando **front-end** moderno com React, JS e integração com APIs.
+- 📚 Em constante aprendizado e evolução no mundo da tecnologia.
+- ⚡ Fato curioso: consigo transformar café em código limpo (quase sempre ☕).
+
+---
+
+## 🚀 Projetos em Destaque
+- ♻ **Recompensa Verde** – Plataforma para negociação de materiais recicláveis.  
+- 📚 **Educa Cidades** – Software de gerenciamento de produto interno.  
+- 🏐 **LigaLPM de Vôlei** – Sistema de gerenciamento e estatísticas de partidas esportivas.  
+
+---
+
+## 🌐 Onde me Encontrar
+<div align="center">
   <a href="https://linkedin.com/in/jonathan3sena" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://instagram.com/js3_silva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:jonathansilvagw@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="mailto:jonathansilvagw@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
+
+---
+
+<p align="center">
+  ✨ “Código é poesia, e cada commit é um verso da sua história.”
+</p>
