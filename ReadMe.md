@@ -6,15 +6,12 @@
   Busco criar soluções que conectam pessoas, otimizam processos e transformam ideias em realidade.
 </p>
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Js3Silva&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Js3Silva&layout=compact&langs_count=8&theme=radical" height="165" />
 </div>
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
@@ -29,22 +26,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </p>
 
----
-
 ## 📌 Sobre Mim
 - 🎯 Focado em **desenvolvimento back-end** com Java + Spring Boot e APIs REST.
 - 🌱 Explorando **front-end** moderno com React, JS e integração com APIs.
 - 📚 Em constante aprendizado e evolução no mundo da tecnologia.
 - ⚡ Fato curioso: consigo transformar café em código limpo (quase sempre ☕).
 
----
 
 ## 🚀 Projetos em Destaque
 - ♻ **Recompensa Verde** – Plataforma para negociação de materiais recicláveis.  
 - 📚 **Educa Cidades** – Software de gerenciamento de produto interno.  
 - 🏐 **LigaLPM de Vôlei** – Sistema de gerenciamento e estatísticas de partidas esportivas.  
 
----
 
 ## 🌐 Onde me Encontrar
 <div align="center">
