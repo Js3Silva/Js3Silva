@@ -13,6 +13,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Js3Silva&layout=compact&langs_count=8&theme=radical" height="165" />
 </div>
 
+<div align="center">
+<table>
+<tr>
+ <!-- <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td> -->
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@Js3Silva">WakaTime</a></td>
+</tr> 
+<tr>
+<!-- <td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td> -->
+<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Js3Silva&theme=dark&langs_count=12"/></td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Js3Silva&theme=dark&layout=compact"/>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
