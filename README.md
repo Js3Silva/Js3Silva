@@ -111,3 +111,4 @@
 ---
 
 <img width="100" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Js3Silva"/>
+[![wakatime](https://wakatime.com/badge/user/bf502c9d-b5bc-4b3a-9311-638410698e5e.svg)](https://wakatime.com/@bf502c9d-b5bc-4b3a-9311-638410698e5e)
