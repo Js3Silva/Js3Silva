@@ -13,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Js3Silva&layout=compact&langs_count=8&theme=radical" height="165" />
 </div>
 
+---
+
 <div align="center">
 <table>
 <tr>
@@ -111,4 +113,4 @@
 ---
 
 <img width="100" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Js3Silva"/>
-[![wakatime](https://wakatime.com/badge/user/bf502c9d-b5bc-4b3a-9311-638410698e5e.svg)](https://wakatime.com/@bf502c9d-b5bc-4b3a-9311-638410698e5e)
+<a href="https://wakatime.com/@bf502c9d-b5bc-4b3a-9311-638410698e5e"><img src="https://wakatime.com/badge/user/bf502c9d-b5bc-4b3a-9311-638410698e5e.svg" alt="Total time coded since Aug 23 2025" /></a>
