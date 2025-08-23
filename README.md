@@ -96,7 +96,6 @@
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31zxobcz5kamcnmqzqcd4tt5obk4&count=10"/>
 </td>
 <td>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
 <a href="https://www.last.fm/pt/user/Js3Silva" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Js3Silva&width=400"/></a>
 </td>
 </tr>
