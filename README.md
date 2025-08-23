@@ -13,8 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Js3Silva&layout=compact&langs_count=8&theme=radical" height="165" />
 </div>
 
----
-
 <div align="center">
 <table>
 <tr>
@@ -30,8 +28,6 @@
 </tr>
 </table>
 </div>
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
