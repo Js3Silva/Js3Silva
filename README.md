@@ -6,7 +6,6 @@
   Busco criar soluções que conectam pessoas, otimizam processos e transformam ideias em realidade.
 </p>
 
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Js3Silva&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165" />
@@ -16,11 +15,9 @@
 <div align="center">
 <table>
 <tr>
- <!-- <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td> -->
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@Js3Silva">WakaTime</a></td>
 </tr> 
 <tr>
-<!-- <td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td> -->
 <td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Js3Silva&theme=dark&langs_count=12"/></td>
 <td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Js3Silva&theme=dark&layout=compact"/>
