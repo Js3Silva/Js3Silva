@@ -15,12 +15,14 @@
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@Js3Silva">WakaTime</a></td>
+ <td align="center" colspan="2">⏱️ <a href="https://wakatime.com/@Js3Silva">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Js3Silva&theme=dark&langs_count=12"/></td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Js3Silva&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Js3Silva&theme=dark&langs_count=12"/>
+</td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Js3Silva&theme=dark&layout=compact"/>
 </td>
 </tr>
 </table>
