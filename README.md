@@ -8,11 +8,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Js3Silva&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Js3Silva&layout=compact&langs_count=8&theme=radical" height="165" />
-</div>
-
-<div align="center">
 <table>
 <tr>
  <td align="center" colspan="2">⏱️ <a href="https://wakatime.com/@Js3Silva">WakaTime</a></td>
