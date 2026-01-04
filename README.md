@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<table>
+<table> 
 <tr>
  <td align="center" colspan="2">⏱️ <a href="https://wakatime.com/@Js3Silva">WakaTime</a></td>
 </tr> 
