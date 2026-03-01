@@ -10,7 +10,7 @@
 <div align="center">
 <table> 
 <tr>
- <td align="center" colspan="2">⏱️ <a href="https://wakatime.com/@Js3Silva">WakaTime</a></td>
+ <figure><embed src="https://wakatime.com/share/@Js3Silva/b7aa3153-f89e-4e7b-8623-c71f9fdcf7ee.svg"></embed></figure>
 </tr> 
 </table>
 </div>
