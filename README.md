@@ -8,7 +8,13 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://wakatime.com/share/@Js3Silva/b7aa3153-f89e-4e7b-8623-c71f9fdcf7ee.svg" alt="WakaTime Stats" />
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@Js3Silva/7a305808-29bf-46fa-a124-dfa5decf3608.png" width="45%" />
+  </a>
+  
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@Js3Silva/1c803cd7-ff25-4ae4-9d97-a87872a8585d.png" alt="WakaTime Languages" width="45%" />
+  </a>
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas
