@@ -8,11 +8,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<table> 
-<tr>
- <figure><embed src="https://wakatime.com/share/@Js3Silva/b7aa3153-f89e-4e7b-8623-c71f9fdcf7ee.svg"></embed></figure>
-</tr> 
-</table>
+  <img src="https://wakatime.com/share/@Js3Silva/b7aa3153-f89e-4e7b-8623-c71f9fdcf7ee.svg" alt="WakaTime Stats" />
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas
